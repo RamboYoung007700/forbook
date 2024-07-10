@@ -1,2 +1,2 @@
 YOLO目标检测项目数据连接如下，复制到浏览器打开即可：
-https://1drv.ms/f/c/a6f15201f2fa8a9c/EsDSOmu78v9JgteBQ-9TuVUBYon8AaRYxVeyxGZDno9eMg?e=UkJWGQ
+https://1drv.ms/f/c/a6f15201f2fa8a9c/EsDSOmu78v9JgteBQ-9TuVUBYon8AaRYxVeyxGZDno9eMg?e=YOH6c5
